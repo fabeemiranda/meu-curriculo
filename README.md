@@ -1,2 +1,2 @@
-# meu-curriculo
+# Meu curriculo
 Informações profissionais sempre atualizadas.
