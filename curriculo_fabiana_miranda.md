@@ -4,7 +4,7 @@ Brasileira, solteira, 37 anos.
 
 Méier - Rio de Janeiro, RJ
 
-[Linktree](https://sites.google.com/view/fabee-miranda-links/in%C3%ADcio)                     [Certificados](https://github.com/fabeemiranda/meu-curriculo/tree/main/Certificados)
+[Linktree](https://sites.google.com/view/fabee-miranda-links/in%C3%ADcio) - [Certificados](https://github.com/fabeemiranda/meu-curriculo/tree/main/Certificados)
 
 #### Objetivo
 
