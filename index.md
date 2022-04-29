@@ -38,14 +38,14 @@ Graduação em Sistemas de Informação - Conclusão em 05/2026
 
 #### Cursos e Bootcamps
 
-- Informática - Conclusão: 12/1999
+**Poligon Informática** - Conclusão: 12/1999
 
-**Poligon Informática**
+- Informática
 
-- Bootcamp Carrefour Web Developer - Conclusão em: 05/2022
+**Digital Innovation One** - Conclusão em: 05/2022
 
-**Digital Innovation One**
+- Bootcamp Carrefour Web Developer 
 
-- Programa ONE - Oracle Next Education - Conclusão em: 10/2022
+**Oracle - Alura** - Conclusão em: 10/2022
 
-**Oracle - Alura**
+- Programa ONE - Oracle Next Education 
